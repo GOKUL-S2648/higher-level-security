@@ -1,0 +1,6 @@
+@SecureDataSharingApi_HostAddress = http://localhost:5030
+
+GET {{SecureDataSharingApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

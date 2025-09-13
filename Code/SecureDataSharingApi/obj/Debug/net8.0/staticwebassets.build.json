@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Pu5MXlhTnW/VgX7qjWnXCRdsQPpWjREO2ByEnt3h02Y=",
+  "Source": "SecureDataSharingApi",
+  "BasePath": "_content/SecureDataSharingApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
